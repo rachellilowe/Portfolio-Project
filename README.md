@@ -1,1 +1,1 @@
-Data Analyst Portfolio Project Repository
+Data Analytics Portfolio Project Repository
